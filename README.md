@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/Aadikalra01/dsa-practice/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -42,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0838-design-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0838-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
