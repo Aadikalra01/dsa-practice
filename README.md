@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
