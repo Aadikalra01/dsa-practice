@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Aadikalra01/dsa-practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
