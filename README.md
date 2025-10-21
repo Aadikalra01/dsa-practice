@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadikalra01/dsa-practice/tree/master/0058-length-of-last-word) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aadikalra01/dsa-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
