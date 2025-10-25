@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/Aadikalra01/dsa-practice/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Aadikalra01/dsa-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Simulation
 |  |
 | ------- |
