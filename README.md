@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Aadikalra01/dsa-practice/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0838-design-linked-list) |
+| [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Recursion
 |  |
 | ------- |
