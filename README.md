@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadikalra01/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0018-4sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
