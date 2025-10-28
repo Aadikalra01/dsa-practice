@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aadikalra01/dsa-practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Aadikalra01/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aadikalra01/dsa-practice/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aadikalra01/dsa-practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 ## Union Find
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Aadikalra01/dsa-practice/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Aadikalra01/dsa-practice/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
