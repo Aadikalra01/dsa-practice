@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aadikalra01/dsa-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aadikalra01/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aadikalra01/dsa-practice/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Aadikalra01/dsa-practice/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aadikalra01/dsa-practice/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aadikalra01/dsa-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
