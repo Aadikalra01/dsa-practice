@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aadikalra01/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aadikalra01/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aadikalra01/dsa-practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Aadikalra01/dsa-practice/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Aadikalra01/dsa-practice/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
