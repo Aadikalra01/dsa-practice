@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Aadikalra01/dsa-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aadikalra01/dsa-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Aadikalra01/dsa-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aadikalra01/dsa-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aadikalra01/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
