@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aadikalra01/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aadikalra01/dsa-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aadikalra01/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aadikalra01/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aadikalra01/dsa-practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aadikalra01/dsa-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aadikalra01/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
