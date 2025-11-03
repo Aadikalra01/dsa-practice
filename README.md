@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Aadikalra01/dsa-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Aadikalra01/dsa-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Sorting
 |  |
 | ------- |
