@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
+| [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Aadikalra01/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -213,4 +214,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
