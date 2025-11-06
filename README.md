@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0838-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -163,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
