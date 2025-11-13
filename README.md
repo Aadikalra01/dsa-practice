@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aadikalra01/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aadikalra01/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Aadikalra01/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aadikalra01/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0838-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
