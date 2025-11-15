@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aadikalra01/dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Aadikalra01/dsa-practice/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadikalra01/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aadikalra01/dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Aadikalra01/dsa-practice/tree/master/0198-house-robber) |
 ## Stack
 |  |
 | ------- |
