@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aadikalra01/dsa-practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aadikalra01/dsa-practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Aadikalra01/dsa-practice/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadikalra01/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Aadikalra01/dsa-practice/tree/master/1642-water-bottles) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadikalra01/dsa-practice/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aadikalra01/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aadikalra01/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0213-house-robber-ii) |
+| [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
