@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aadikalra01/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aadikalra01/dsa-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aadikalra01/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aadikalra01/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aadikalra01/dsa-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
