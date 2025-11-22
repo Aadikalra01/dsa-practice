@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadikalra01/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Aadikalra01/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aadikalra01/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aadikalra01/dsa-practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Aadikalra01/dsa-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadikalra01/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Aadikalra01/dsa-practice/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadikalra01/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
