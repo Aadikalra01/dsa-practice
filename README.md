@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/Aadikalra01/dsa-practice/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadikalra01/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aadikalra01/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Aadikalra01/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Aadikalra01/dsa-practice/tree/master/0322-coin-change) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aadikalra01/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aadikalra01/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Aadikalra01/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
