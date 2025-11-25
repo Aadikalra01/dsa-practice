@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadikalra01/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Aadikalra01/dsa-practice/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1323-maximum-69-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1323-maximum-69-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadikalra01/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Aadikalra01/dsa-practice/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Aadikalra01/dsa-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aadikalra01/dsa-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Aadikalra01/dsa-practice/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1323-maximum-69-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1323-maximum-69-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aadikalra01/dsa-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
