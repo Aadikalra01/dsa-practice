@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadikalra01/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Database
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
