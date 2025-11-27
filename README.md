@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aadikalra01/dsa-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
+| [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aadikalra01/dsa-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aadikalra01/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadikalra01/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aadikalra01/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Database
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aadikalra01/dsa-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aadikalra01/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Aadikalra01/dsa-practice/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1323-maximum-69-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1323-maximum-69-number) |
