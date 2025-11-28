@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Aadikalra01/dsa-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aadikalra01/dsa-practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2864-maximum-odd-binary-number](https://github.com/Aadikalra01/dsa-practice/tree/master/2864-maximum-odd-binary-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aadikalra01/dsa-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aadikalra01/dsa-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aadikalra01/dsa-practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aadikalra01/dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2864-maximum-odd-binary-number](https://github.com/Aadikalra01/dsa-practice/tree/master/2864-maximum-odd-binary-number) |
 ## Database
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aadikalra01/dsa-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2864-maximum-odd-binary-number](https://github.com/Aadikalra01/dsa-practice/tree/master/2864-maximum-odd-binary-number) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aadikalra01/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Binary Search Tree
