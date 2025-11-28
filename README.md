@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadikalra01/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Aadikalra01/dsa-practice/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1323-maximum-69-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1323-maximum-69-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadikalra01/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
