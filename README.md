@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aadikalra01/dsa-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aadikalra01/dsa-practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aadikalra01/dsa-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aadikalra01/dsa-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aadikalra01/dsa-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aadikalra01/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aadikalra01/dsa-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aadikalra01/dsa-practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aadikalra01/dsa-practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadikalra01/dsa-practice/tree/master/2864-maximum-odd-binary-number) |
