@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aadikalra01/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aadikalra01/dsa-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0845-longest-mountain-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aadikalra01/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aadikalra01/dsa-practice/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0845-longest-mountain-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Aadikalra01/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadikalra01/dsa-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
