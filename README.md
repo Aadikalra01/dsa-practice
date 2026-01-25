@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aadikalra01/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Aadikalra01/dsa-practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Aadikalra01/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aadikalra01/dsa-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aadikalra01/dsa-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Aadikalra01/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Aadikalra01/dsa-practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Aadikalra01/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aadikalra01/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Aadikalra01/dsa-practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2864-maximum-odd-binary-number](https://github.com/Aadikalra01/dsa-practice/tree/master/2864-maximum-odd-binary-number) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Aadikalra01/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Aadikalra01/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Binary Search Tree
