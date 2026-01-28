@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Aadikalra01/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadikalra01/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Aadikalra01/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0518-coin-change-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aadikalra01/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Aadikalra01/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aadikalra01/dsa-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aadikalra01/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aadikalra01/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Aadikalra01/dsa-practice/tree/master/0322-coin-change) |
+| [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
