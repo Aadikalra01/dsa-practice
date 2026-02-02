@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aadikalra01/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aadikalra01/dsa-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aadikalra01/dsa-practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aadikalra01/dsa-practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aadikalra01/dsa-practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aadikalra01/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aadikalra01/dsa-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## String
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aadikalra01/dsa-practice/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aadikalra01/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
