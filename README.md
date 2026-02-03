@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aadikalra01/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aadikalra01/dsa-practice/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Aadikalra01/dsa-practice/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Aadikalra01/dsa-practice/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aadikalra01/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadikalra01/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aadikalra01/dsa-practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadikalra01/dsa-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aadikalra01/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Aadikalra01/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Aadikalra01/dsa-practice/tree/master/1013-fibonacci-number) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aadikalra01/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aadikalra01/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1642-furthest-building-you-can-reach](https://github.com/Aadikalra01/dsa-practice/tree/master/1642-furthest-building-you-can-reach) |
 ## Monotonic Queue
 |  |
@@ -446,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aadikalra01/dsa-practice/tree/master/0130-surrounded-regions) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aadikalra01/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aadikalra01/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
