@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Aadikalra01/dsa-practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0137-single-number-ii) |
+| [1009-complement-of-base-10-integer](https://github.com/Aadikalra01/dsa-practice/tree/master/1009-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadikalra01/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aadikalra01/dsa-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Union Find
