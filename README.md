@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadikalra01/dsa-practice/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Aadikalra01/dsa-practice/tree/master/0072-edit-distance) |
 | [0402-remove-k-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aadikalra01/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0942-di-string-match](https://github.com/Aadikalra01/dsa-practice/tree/master/0942-di-string-match) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aadikalra01/dsa-practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aadikalra01/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aadikalra01/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Aadikalra01/dsa-practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Aadikalra01/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadikalra01/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
