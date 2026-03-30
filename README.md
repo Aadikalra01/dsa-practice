@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aadikalra01/dsa-practice/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/Aadikalra01/dsa-practice/tree/master/0838-design-linked-list) |
 | [2169-simple-bank-system](https://github.com/Aadikalra01/dsa-practice/tree/master/2169-simple-bank-system) |
 ## Recursion
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aadikalra01/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Aadikalra01/dsa-practice/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Aadikalra01/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aadikalra01/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aadikalra01/dsa-practice/tree/master/0503-next-greater-element-ii) |
